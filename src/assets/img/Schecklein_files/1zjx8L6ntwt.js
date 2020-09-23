@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["OdJFb"]); }
+
+__d("AcceptAssignedRoleLegacyMutation",["RelayModern","AcceptAssignedRoleLegacyMutation.graphql"],(function(a,b,c,d,e,f){"use strict";var g,h=b("RelayModern").commitMutation;b("RelayModern").graphql;var i=g!==void 0?g:g=b("AcceptAssignedRoleLegacyMutation.graphql");function a(a,b){return h(a,{mutation:i,variables:{page_id:b.page_id,video_id:b.video_id}})}e.exports={commit:a}}),null);
